@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td , input{
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #dddddd;
+  }
+  
+  .add-btn, .remove-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  .position-icon{
+    display: inline-block;
+    width: 28px;
+    cursor: pointer;
+  }
+ 
